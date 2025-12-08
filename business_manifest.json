@@ -1,0 +1,34 @@
+{
+  "name": "NichePulse",
+  "type": "content",
+  "description": "NichePulse is an AI-driven subscription box service tailored for small businesses in the creator economy, providing curated content and tools to enhance their brand presence and community engagement.",
+  "generated_at": "2025-12-06T14:21:51.590938",
+  "components": [
+    "spec",
+    "build",
+    "deploy",
+    "spec_requirements",
+    "spec_architecture",
+    "build_code",
+    "build_test"
+  ],
+  "files_written": [
+    "businesses\\production_test\\content\\nichepulse\\src\\components\\component.tsx",
+    "businesses\\production_test\\content\\nichepulse\\__tests__\\component.test.tsx",
+    "businesses\\production_test\\content\\nichepulse\\vercel.json",
+    "businesses\\production_test\\content\\nichepulse\\src\\components\\requirements.tsx",
+    "businesses\\production_test\\content\\nichepulse\\__tests__\\architecture.test.tsx",
+    "businesses\\production_test\\content\\nichepulse\\vercel.json",
+    "businesses\\production_test\\content\\nichepulse\\src\\components\\test.tsx"
+  ],
+  "tasks_completed": 7,
+  "tasks_failed": 0,
+  "ap2_estimated_cost": 45.2,
+  "ap2_estimated_tokens": 19500,
+  "ap2_generation_approval": null,
+  "infrastructure_approvals": {
+    "analytics": null,
+    "database": null,
+    "storage": null
+  }
+}
